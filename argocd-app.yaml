@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: "https://github.com/arifansari10027/devops-practice"
     targetRevision: HEAD
-    path: /workspaces/devops-practice/devops-practice-time-printer
+    path: devops-practice-time-printer
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: default
