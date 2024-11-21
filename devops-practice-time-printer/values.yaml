@@ -1,6 +1,6 @@
 image:
   repository: devops-practice-time-printer
-  tag: 6d87a54
+  tag: 6dbc8ac
   pullPolicy: IfNotPresent
 service:
   type: ClusterIP
